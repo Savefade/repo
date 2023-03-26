@@ -1,0 +1,24 @@
+<package>
+	<id>com.supermamon.oldpackage</id>
+	<name>Old Package</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+		    <miniOS>5.0</miniOS>
+			<maxiOS>10.3.4</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>THE BEST SNAPCHAT TWEAK FOR LEGACYSNAP 5.0.3+</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>NOT MY TWEAK!!!</change>
+	</changelog>
+	<links></links>
+</package>

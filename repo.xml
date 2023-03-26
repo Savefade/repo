@@ -1,8 +1,19 @@
 <repo>
-	<footerlinks>
+    <footerlinks>
+        <link>
+            <name>Follow me on Twitter</name>
+            <url>https://twitter.com/savefade1</url>
+            <iconclass>glyphicon glyphicon-user</iconclass>
+        </link>
+        <link>
+            <name>LegacySnap</name>
+            <url></url>
+            <iconclass></iconclass>
+        </link>
 		<link>
-		</link>
-		<link>
-		</link>
-	</footerlinks>
+            <name>free money</name>
+            <url>https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley</url>
+            <iconclass></iconclass>
+        </link>
+    </footerlinks>
 </repo>
